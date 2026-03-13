@@ -1,0 +1,163 @@
+EASE-EDU — AI Evaluation Report
+==================================================
+Report ID  : 690419cc-0744-42b4-a203-7f6507cf7202
+Generated  : 2026-03-13 18:00:07
+Total Score: 70.0 / 80.0
+
+QUESTION-WISE BREAKDOWN
+--------------------------------------------------
+Q1:
+  Marks    : 1 / 1
+  Feedback : Correct. The unit digits of powers of 8 cycle as 8, 4, 2, 6, so 0 is not possible.
+
+Q2:
+  Marks    : 1 / 1
+  Feedback : Correct. Assuming a typo in the question and y=a^3b^mc^n for LCM to be a^3b^7c^3, then m=7 and n=3, so m+n=10.
+
+Q3:
+  Marks    : 1 / 1
+  Feedback : Correct. If zeroes are reciprocal, the product of roots (c/a) is 1, so 2a/ab = 1, which implies 2/b = 1, hence b=2.
+
+Q4:
+  Marks    : 1 / 1
+  Feedback : Correct. For an inconsistent system, a1/a2 = b1/b2 != c1/c2. From 3/6 = -k/10, we get k=-5.
+
+Q5:
+  Marks    : 1 / 1
+  Feedback : Correct. (x+1)^2 = 2x+1 simplifies to x^2 = 0, which has real and equal roots (discriminant D=0).
+
+Q6:
+  Marks    : 1 / 1
+  Feedback : Correct. If P, Q, R divide AB into four equal parts, then Q divides PB in the ratio 1:2 (PQ : (QR+RB)).
+
+Q7:
+  Marks    : 1 / 1
+  Feedback : Correct. Distance from origin (0,0) to (4,2) is sqrt(4^2 + 2^2) = sqrt(16+4) = sqrt(20).
+
+Q8:
+  Marks    : 1 / 1
+  Feedback : Correct. Given the side ratios are 2:1 and included angle B=Q=80, the triangles are similar. Angle C corresponds to angle R. Based on proportional sides, angle C is 40 degrees.
+
+Q9:
+  Marks    : 1 / 1
+  Feedback : Correct. 2tanA/(1-tan^2 A) = 3tanA. If tanA is not 0, then 2/(1-tan^2 A) = 3, which implies tan^2 A = 1/3, so A=30 degrees.
+
+Q10:
+  Marks    : 1 / 1
+  Feedback : Correct. The expression (1-tan^2 30)/(1+tan^2 30) is equivalent to cos(2*30) = cos(60).
+
+Q11:
+  Marks    : 1 / 1
+  Feedback : Correct. Ratio of volumes (r1/r2)^3 = 64/27 implies r1/r2 = 4/3. Ratio of surface areas (r1/r2)^2 = (4/3)^2 = 16/9.
+
+Q12:
+  Marks    : 1 / 1
+  Feedback : Correct. Area of a sector = (1/2) * radius * arc length = (1/2) * 5cm * 3.5cm = 8.75 cm^2.
+
+Q13:
+  Marks    : 1 / 1
+  Feedback : Correct. Circumference 2*pi*r = 22cm implies radius r = 3.5cm. Area of quadrant = (1/4)*pi*r^2 = 9.625 cm^2, which rounds to 9.63 cm^2.
+
+Q14:
+  Marks    : 1 / 1
+  Feedback : Correct. In the right triangle formed by the center, point of tangency, and external point, tan(30) = radius / tangent length = 3 / tangent length, giving tangent length = 3*sqrt(3) cm.
+
+Q15:
+  Marks    : 1 / 1
+  Feedback : Correct. There is 1 ace of hearts. Out of 52 cards, 52-1 = 51 outcomes are not an ace of hearts.
+
+Q16:
+  Marks    : 1 / 1
+  Feedback : Correct. There are 8 multiples of 5 between 1 and 40. So 40-8=32 numbers are not multiples of 5. Probability = 32/40 = 4/5.
+
+Q17:
+  Marks    : 1 / 1
+  Feedback : Correct. The class with the highest frequency (20) is 125-145, which is the modal class.
+
+Q18:
+  Marks    : 1 / 1
+  Feedback : Correct. Using Pythagoras theorem, r^2 + 24^2 = 25^2, so r^2 = 625 - 576 = 49, thus r=7cm.
+
+Q19:
+  Marks    : 1 / 1
+  Feedback : Correct. Assertion (A) is false because LCM of two distinct primes p and q is p*q, not p+q. Reason (R) is true. Hence (A) is false but (R) is true.
+
+Q20:
+  Marks    : 1 / 1
+  Feedback : Correct. Assertion (A) is true as sin(theta) cannot be greater than 1. Reason (R) is true and correctly explains why sin(theta) cannot be greater than 1 (opposite side cannot be longer than hypotenuse).
+
+Q21:
+  Marks    : 2 / 2
+  Feedback : Correct. The common difference 'd' is correctly found from S14, and then t20 is calculated correctly.
+
+Q22:
+  Marks    : 0 / 2
+  Feedback : Incorrect. For a quadrilateral circumscribing a circle, the sum of opposite sides are equal (AB+CD = BC+AD). Applying this, AD should be 3cm, not 5cm. The property was partially identified but misapplied.
+
+Q23:
+  Marks    : 2 / 2
+  Feedback : Correct. The angle swept in 35 minutes and the area of the sector are calculated accurately.
+
+Q24:
+  Marks    : 2 / 2
+  Feedback : Correct. All trigonometric values are correctly substituted and the expression is evaluated to 0.
+
+Q25:
+  Marks    : 2 / 2
+  Feedback : Correct. The triangles are proven similar using the AA similarity criterion based on the given equal angles and the common angle.
+
+Q26:
+  Marks    : 3 / 3
+  Feedback : Correct. The sum and product of roots are correctly found, and the given expression is correctly transformed and evaluated.
+
+Q27:
+  Marks    : 3 / 3
+  Feedback : Correct. The proof by contradiction is well-structured and logical, leading to the correct conclusion that 3+2√5 is irrational.
+
+Q28:
+  Marks    : 1 / 3
+  Feedback : Parts (a) and (c) are correct. However, part (b) (product of numbers less than 9) has an incorrect count of favorable outcomes; it should be 16, not 33. Awarded 1 mark for 2 correct subparts out of 3.
+
+Q29:
+  Marks    : 3 / 3
+  Feedback : Correct. The identity is proven accurately by converting to sine and cosine terms and simplifying.
+
+Q30:
+  Marks    : 3 / 3
+  Feedback : Correct. The system of linear equations is solved efficiently by adding and subtracting the equations, leading to the correct values of x and y.
+
+Q31:
+  Marks    : 3 / 3
+  Feedback : Correct. Pythagoras theorem is applied accurately to find half the chord length, and then the full chord length is calculated correctly.
+
+Q32:
+  Marks    : 5 / 5
+  Feedback : Correct. The proof of Basic Proportionality Theorem (BPT) is complete and accurate, including diagram, construction, and logical steps. The application of BPT to find EC is also correct.
+
+Q33:
+  Marks    : 5 / 5
+  Feedback : Correct. The problem is correctly set up as a quadratic equation, solved by factorization, and the appropriate solution is chosen to find the number of articles and their cost.
+
+Q34:
+  Marks    : 5 / 5
+  Feedback : Correct. The surface areas of the cylindrical and conical parts are accurately calculated, leading to the correct total canvas area and the final cost.
+
+Q35:
+  Marks    : 2 / 5
+  Feedback : The method for calculating the mean is correctly chosen and the table setup (class marks and sum of frequencies) is accurate. However, there is an arithmetic error in summing the 'fixi' values (1840 instead of 1765), which leads to an incorrect equation and ultimately a non-integer frequency. Awarded marks for correct method and partial setup.
+
+Q36:
+  Marks    : 2 / 4
+  Feedback : Part (i) is correctly calculated. Part (ii) shows the correct approach (finding difference of terms) but has a calculation error. Part (iii) shows the correct formula for sum of an AP, but a significant arithmetic error in the intermediate and final calculation. Awarded 1 mark for (i), 0.5 for (ii), 0.5 for (iii).
+
+Q37:
+  Marks    : 3 / 4
+  Feedback : Part (i) correctly identifies the angles of elevation from P and Q. Part (ii) applies an incorrect trigonometric ratio (cosine instead of tangent) to find BQ. Part (iii) (OR option) correctly calculates the distance PQ using tangent ratios.
+
+Q38:
+  Marks    : 4 / 4
+  Feedback : Correct. The length and width of the park are accurately calculated. The mid-point of the diagonal is correctly determined, and the coordinates of the point dividing the segment AB in the given ratio are found correctly.
+
+PERFORMANCE SUMMARY
+--------------------------------------------------
+The student demonstrated a strong understanding of mathematical concepts, particularly in Section A (MCQs) where all questions were answered correctly. They also performed very well in Sections C and D, with most questions receiving full marks, indicating solid problem-solving skills in algebra, proofs, and mensuration. Some minor arithmetic errors in Q35 and Q36, and a conceptual error in Q22, prevented a perfect score. Overall, the student's performance is commendable, showcasing good command over a wide range of topics.

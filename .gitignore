@@ -1,0 +1,62 @@
+# ── Environment & Secrets ──────────────────────────────────────────────────────
+.env
+*.env
+.env.*
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Virtual Environments ───────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+edvenv/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Database ───────────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Uploaded Files (teacher data — never commit) ──────────────────────────────
+storage/question_papers/*
+storage/marking_schemes/*
+storage/answer_sheets/*
+storage/reports/*
+!storage/question_papers/.gitkeep
+!storage/marking_schemes/.gitkeep
+!storage/answer_sheets/.gitkeep
+!storage/reports/.gitkeep
+
+# ── Streamlit ──────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── OS Files ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ───────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Misc ───────────────────────────────────────────────────────────────────────
+debug_output.txt
